@@ -3,6 +3,4 @@
 This is the next big thing
 
 
-Update readme on seperate branch
-
-Editing on local
+Update made on master on Github before rebase
