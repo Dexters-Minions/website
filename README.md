@@ -7,5 +7,4 @@ Update made on master on Github before rebase
 
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is
+This is just a read me file
