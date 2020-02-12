@@ -10,3 +10,8 @@ Update made on master on Github before rebase
 This is just a read me file
 
 Modified to create floating tag
+
+
+## Getting Started
+
+Added Getting Started
